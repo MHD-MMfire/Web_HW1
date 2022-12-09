@@ -2,3 +2,5 @@
 
 Ye marde kheyli seft mikhore be narde,
 barmigarde.
+Ye marde dige aroom mikhore be narde,
+vali bar nemigarde.
